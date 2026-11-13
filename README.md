@@ -2,7 +2,7 @@
 
 **[Open the interactive map](https://clarajzt.github.io/consumer-ai-app-map/)**
 
-978 consumer AI apps and 466 AI devices, filed by the job people hire them for: assistants and search,
+982 consumer AI apps and 466 AI devices, filed by the job people hire them for: assistants and search,
 creating, connecting and playing, knowing and learning, acting on your behalf, and devices. Chinese and global
 products sit side by side.
 
